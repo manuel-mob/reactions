@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">Reactions</string>
     <string name="app_author">Manuel, manuel@mobiquos.cl</string>
+    <string name="app_descripotion">Este proyecto es un piloto para evaluar la factibilidad de poder
+        desarrollar dentro de Android una aplicacion que implemente un juego de reacciones.
+        El celular da la instruccion y el usuario debe responder en un tiempo limitado para
+        segueing avanzando.</string>
+
     <string name="title_activity_settings">SettingsActivity</string>
 
     <!-- Preference Titles -->
@@ -17,5 +22,10 @@
     <string name="attachment_summary_on">Automatically download attachments for incoming emails
     </string>
     <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <!-- Splash Preferences -->
+    <string name="splash_title">Duración Inicio</string>
+    <string name="splash_description">Duracion de la pantalla de presentación</string>
+
 
 </resources>
